@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Gabriel Leles.
-- 💪 Wordpress specialist.
-- 👀 I’m interested in javascript frameworks.
-- 🌱 I’m currently learning React Native and ReactJS.
+- 👋 Hi, I’m Gabriel Leles
+- 💪 web developer and specialist in wordpress
+- 👀 I’m interested in javascript frameworks
+- 🌱 I’m currently learning React Native and ReactJS
 
 <!---
 - 💞️ I’m looking to collaborate on ...
