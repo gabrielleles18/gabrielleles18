@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel Leles
-- 💪 web developer and specialist in wordpress
+- 💪 Web developer and specialist in wordpress
 - 👀 I’m interested in javascript frameworks
 - 🌱 I’m currently learning React Native and ReactJS
 
