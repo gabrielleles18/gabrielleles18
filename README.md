@@ -27,8 +27,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-333333?style=flat&logo=azure-devops&logoColor=0078d7)
---->
 
+<!---
 ## **Github Statistics**
 
 <a href="https://github.com/gabrielleles18">
