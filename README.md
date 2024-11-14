@@ -6,7 +6,6 @@
 
 - 👋 Hi, I’m Gabriel Leles
 - 💪 Web developer and specialist in wordpress
-- 👀 Interested in javascript frameworks
 - 🌱 Proficient in React Native and ReactJS
 
 **Skills**
